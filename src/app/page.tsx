@@ -205,8 +205,9 @@ export default function Home() {
 
         {/* Roadmap Section */}
         <section id="roadmap" className="py-24 max-w-4xl mx-auto">
-          <h2 className="font-headline text-5xl text-primary mb-12 text-center">WORLDWIDE SHITCOIN DOMINATION</h2>
-          <div className="relative border-l-2 border-primary/50 pl-8 space-y-16">
+          <h2 className="font-headline text-5xl text-primary mb-12 text-center">ROADMAP</h2>
+          <h3 className="font-headline text-5xl text-primary mb-12 text-center">WORLDWIDE SHITCOIN DOMINATION</h3>
+          {/* <div className="relative border-l-2 border-primary/50 pl-8 space-y-16">
             <div className="absolute -left-[11px] top-0 h-5 w-5 rounded-full bg-accent animate-pulse"></div>
             
             <div className="text-left">
@@ -238,7 +239,7 @@ export default function Home() {
                 <li>Global Domination (in a friendly way)</li>
               </ul>
             </div>
-          </div>
+          </div> */}
         </section>
 
         {/* Live Chart Section */}
