@@ -158,12 +158,7 @@ export default function Home() {
           <h2 className="font-headline text-5xl text-primary mb-8 text-center">WHAT IS THE SHITCOIN</h2>
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="space-y-4 text-xl">
-              <p>Shitcoin, built on the Solana blockchain, introduces a transformative vision: a universally adaptable,
-decentralized options protocol designed to seamlessly support events of any scale with efficiency and precision.
-Leveraging Solana's high-throughput, low-cost architecture, Shitcoin's hybrid market model, inspired by
-cutting-edge decentralized finance principles, delivers fluid market dynamics, automated liquidity adjustments,
-and accurate pricing. This enables robust support for a wide range of events, from global phenomena to highly
-specialized niches, without compromise.</p>
+              <p>Shitcoin is just a shitcoin with 0 utility. We are here to basically sum up the whole crypto industry.</p>
               
             </div>
             <Image
@@ -202,7 +197,7 @@ specialized niches, without compromise.</p>
                 <CardTitle className="font-headline text-2xl text-accent">3. SWAP FOR SHITCOIN</CardTitle>
               </CardHeader>
               <CardContent>
-                <p>Go to Uniswap, paste the Shitcoin contract address, and swap your SOL. Welcome to the mainframe.</p>
+                <p>Go to Jupiter, paste the Shitcoin contract address, and swap your SOL. Welcome to the mainframe.</p>
               </CardContent>
             </Card>
           </div>
@@ -210,7 +205,7 @@ specialized niches, without compromise.</p>
 
         {/* Roadmap Section */}
         <section id="roadmap" className="py-24 max-w-4xl mx-auto">
-          <h2 className="font-headline text-5xl text-primary mb-12 text-center">SHITCOIN ROADMAP</h2>
+          <h2 className="font-headline text-5xl text-primary mb-12 text-center">WORLDWIDE SHITCOIN DOMINATION</h2>
           <div className="relative border-l-2 border-primary/50 pl-8 space-y-16">
             <div className="absolute -left-[11px] top-0 h-5 w-5 rounded-full bg-accent animate-pulse"></div>
             
