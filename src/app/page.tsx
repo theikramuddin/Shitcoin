@@ -99,7 +99,7 @@ export default function Home() {
             Shitcoin
           </h1>
           <p className="mt-4 text-3xl md:text-4xl text-muted-foreground">
-          Powering Prediction with Solana Speed.
+          Empowering the ultimate shit heads with Solana speed.
           </p>
           
           <div className="mt-12 w-full max-w-md">

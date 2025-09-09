@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Shitcoin - Powering Prediction with Solana Speed.',
-  description: 'Powering Prediction with Solana Speed.',
+  title: 'Shitcoin - Empowering the ultimate shit heads with Solana speed.',
+  description: 'Empowering the ultimate shit heads with Solana speed.',
 };
 
 export default function RootLayout({
